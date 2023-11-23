@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Actividades\FrmActividades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Actividades\FrmEditarActividad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Actividades\FrmNuevoActividad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Corredores\FrmCorredores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Corredores\FrmEditarCorredor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Corredores\FrmNuevoCorredor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pistas\FrmEditarPista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pistas\FrmNuevoPista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Pistas\FrmPistas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Vehiculos\FrmEditarVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Vehiculos\FrmNuevoVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Vehiculos\FrmVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewForms\ActividadesViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewForms\CorredoresViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewForms\PistasViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewForms\VehiculosViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Data\MotoRacingDesktopDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,218 @@
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.exe
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.deps.json
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.runtimeconfig.json
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.pdb
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.ReportViewer.NETCore.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.reportviewer.winforms.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Actividades.FrmActividades.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Actividades.FrmEditarActividad.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Actividades.FrmNuevoActividad.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.FrmCorredores.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.FrmEditarCorredor.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.FrmNuevoCorredor.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.FrmMenuPrincipal.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Pistas.FrmEditarPista.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Pistas.FrmNuevoPista.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Pistas.FrmPistas.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Vehiculos.FrmEditarVehiculo.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Vehiculos.FrmNuevoVehiculo.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Vehiculos.FrmVehiculos.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Properties.Resources.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.ViewForms.ActividadesViewForm.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.csproj.CopyComplete
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\refint\MotoRacingDesktop.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.pdb
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.genruntimeconfig.cache
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\ref\MotoRacingDesktop.dll
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.ViewForms.CorredoresViewForm.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.ViewForms.PistasViewForm.resources
+C:\Users\Samuel\Desktop\RAMIREZ\C# y SQL\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.ViewForms.VehiculosViewForm.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.exe
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.deps.json
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.runtimeconfig.json
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\MotoRacingDesktop.pdb
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\FontAwesome.Sharp.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Humanizer.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.ReportViewer.Common.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.ReportViewer.NETCore.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\bin\Debug\net7.0-windows\Microsoft.reportviewer.winforms.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.csproj.AssemblyReference.cache
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Actividades.FrmActividades.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Actividades.FrmEditarActividad.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Actividades.FrmNuevoActividad.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.FrmCorredores.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.FrmEditarCorredor.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.FrmNuevoCorredor.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.FrmMenuPrincipal.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Pistas.FrmEditarPista.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Pistas.FrmNuevoPista.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Pistas.FrmPistas.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Vehiculos.FrmEditarVehiculo.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Vehiculos.FrmNuevoVehiculo.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Forms.Vehiculos.FrmVehiculos.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.Properties.Resources.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.ViewForms.ActividadesViewForm.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.ViewForms.CorredoresViewForm.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.ViewForms.PistasViewForm.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.ViewForms.VehiculosViewForm.resources
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.csproj.GenerateResource.cache
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.AssemblyInfoInputs.cache
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.AssemblyInfo.cs
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.csproj.CoreCompileInputs.cache
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.csproj.CopyComplete
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\refint\MotoRacingDesktop.dll
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.pdb
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\MotoRacingDesktop.genruntimeconfig.cache
+C:\MotoRacingDesktop\MotoRacingDesktop\MotoRacingDesktop\obj\Debug\net7.0-windows\ref\MotoRacingDesktop.dll
